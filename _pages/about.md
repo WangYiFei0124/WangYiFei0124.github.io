@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 # Education
+**College of Architecture and Urban Planning, Tongji University**  
+_Sep 2020 - Sep 2021_  
 **College of Electronics and Information Engineering, Tongji University**  
-_Sep 2020 - Present_  
+_Sep 2021 - Present_  
 **Major:** Computer Science and Technology  
 **Overall GPA:** 91.33/100  
 
