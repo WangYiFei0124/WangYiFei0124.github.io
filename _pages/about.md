@@ -11,7 +11,7 @@ redirect_from:
 **College of Electronics and Information Engineering, Tongji University**  
 _Sep 2020 - Present_  
 **Major:** Computer Science and Technology  
-**Overall GPA:** 91.23/100  
+**Overall GPA:** 91.33/100  
 
 **Core Courses:**  
 - Linear Algebra (A)  
