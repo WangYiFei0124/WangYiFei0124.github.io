@@ -34,8 +34,11 @@ _Sep 2021 - Present_
 
 # Research Experiences
 **Text-Image Alignment in Vision-Language Models**  
+
 _University of Maryland, College Park_
+
 _July 2024 - Present_
+
 _Advisor: Furong Huang, Associate Professor in the Department of Computer Science, University of Maryland_
 
 - Identified concept misalignment in vision-language models and hypothesized that continuous image representations and discrete text embeddings lead to poor modality alignment
@@ -44,7 +47,9 @@ _Advisor: Furong Huang, Associate Professor in the Department of Computer Scienc
 
 **ADHD Diagnosis Based on Multi-Modal MRI Data**
 _Tongji University_  
+
 _Apr 2024 - Present_
+
 _Advisor: Chunyan Duan, Associate Professor in the School of Mechanical Engineering, Tongji University_
 
 - Fine-tuned MedicalNet, a pre-trained medical model by Tencent, to extract image feature from MRI to ensure robustness in spite of limited patient cases
