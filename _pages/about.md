@@ -36,7 +36,6 @@ _Sep 2021 - Present_
 **Text-Image Alignment in Vision-Language Models**  
 _University of Maryland, College Park_  
 _July 2024 - Present_  
-
 _Advisor: Furong Huang, Associate Professor in the Department of Computer Science, University of Maryland_
 
 - Identified concept misalignment in vision-language models and hypothesized that continuous image representations and discrete text embeddings lead to poor modality alignment
