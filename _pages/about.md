@@ -13,7 +13,7 @@ _Sep 2020 - Sep 2021_
 **College of Electronics and Information Engineering, Tongji University**  
 _Sep 2021 - Present_  
 **Major:** Computer Science and Technology  
-**Overall GPA:** 91.33/100  
+**Overall GPA:** 91.58/100  
 
 **Core Courses:**  
 - Linear Algebra (A)  
@@ -21,45 +21,66 @@ _Sep 2021 - Present_
 - Algorithm Analysis and Design (A)  
 - Principles of Artificial Intelligence (A)  
 - Database System (A)  
-- Computer Architecture (A, Top 10%)  
+- Computer Architecture (A)
+- Operating Systems (A)
 - Machine Learning (A)  
-- Data Mining (A)  
+- Data Mining (A)
+- Software Engineering (A)
+- Natural language Processing (A)
 
 **Scholarship:**  
-- Third Prize, Tongji University Excellent Student Scholarship (2022-2023 Academic Year)  
+- Third Prize, Tongji University Excellent Student Scholarship (2022-2023 Academic Year)
+- Third Prize, Tongji University Excellent Student Scholarship (2023-2024 Academic Year)  
 
 # Research Experiences
-**Integration of External Knowledge into Large Language Models**  
-_Tongji University | Team Member_  
-_Dec 2023 - Present_  
-Advisor: Qingwen Liu, Professor at College of Electronics and Information Engineering, Tongji University  
+**Text-Image Alignment in Vision-Language Models**  
+_University of Maryland, College Park_
+_July 2024 - Present_
+_Advisor: Furong Huang, Associate Professor in the Department of Computer Science, University of Maryland_
 
-- Developed a research-oriented large language model integrated with external knowledge, aiming to mitigate model hallucinations and enhance literature comprehension for researchers.  
-- Applied keyword filtering and regular matching techniques to extract domain-specific data, creating a high-quality knowledge base for further training of the LLM.  
-- Implemented the Nougat model to convert PDF papers into standardized LaTeX document trees and utilized LLM to transform paper texts into Q&A pairs.  
-- Designed methods to improve knowledge recall accuracy through intent recognition and keyword extraction.  
+- Identified concept misalignment in vision-language models and hypothesized that continuous image representations and discrete text embeddings lead to poor modality alignment
+- Developed a feature quantization method by designing codebooks to map image vectors to clustering centers in the subspace, which successfully improved the alignment of images and texts     in discrete space
+- Addressed information loss by integrating a quantization reconstruction loss into the loss function, will publish findings as the first co-author in ICCV 
+
+**ADHD Diagnosis Based on Multi-Modal MRI Data**
+_Tongji University_  
+_Apr 2024 - Present_
+_Advisor: Chunyan Duan, Associate Professor in the School of Mechanical Engineering, Tongji University_
+
+- Fine-tuned MedicalNet, a pre-trained medical model by Tencent, to extract image feature from MRI to ensure robustness in spite of limited patient cases
+- Addressed overfitting by calculating functional statistical indicators ALFF and ReHo from MRI and jointly training these metrics with image features, upgrading diagnostic accuracy from     77% to 80% 
+
+**Integration of External Knowledge into Large Language Models**  
+_Tongji University_  
+_Dec 2023 - Apr 2024_  
+_Advisor: Qingwen Liu, Professor at College of Electronics and Information Engineering, Tongji University_
+
+- Implemented the Nougat model to convert research papers PDFs to LaTex, and utilized LLM to transform paper content into logically correlated Q&A pairs, addressing the challenge of       
+  external knowledge base construction  
+- Designed retrieval methods to improve knowledge recall accuracy by intent recognition and keyword extraction 
+- Fine-tuned ChatGLM, an open bilingual language model based on General Language Model (GLM) framework, successfully developing a paper-reading-oriented large language model
 
 **Intelligent Spoon System Design and Implementation**  
-_Tongji University | Team Leader_  
-_Apr 2023 - Present_  
-Advisor: Jianfeng Tang, Lecturer at School of Software Engineering, Tongji University  
+_Tongji University_  
+_Apr 2023 - March 2024_  
+_Advisor: Jianfeng Tang, Lecturer at School of Software Engineering, Tongji University_  
 
-- Proposed a smart spoon with temperature-sensitive color change and camera recognition to prevent scalding.  
-- Collected over two thousand spoon images for dataset creation through web searches and manual photography.  
-- Led a team in training the YOLOv5 network, achieving a mean average precision of 0.941 for real-time spoon detection. Currently integrating the model with an Android application using the UCNN framework.  
+- Collected two thousand spoon images from web and manual photography, covering diverse materials and scenarios  
+- Led a team of five members in training the YOLOv5 model, achieving a mean average precision of 0.941 for real-time spoon detection by adding detection layers and integrating attention   
+  mechanisms within the model  
 
 **Campus Scene Object Detection and Optimization Project**  
-_Tongji University | Team Member_  
+_Tongji University_  
 _Oct 2022 - Nov 2022_  
-Advisor: Junqi Zhang, Professor at College of Electronics and Information Engineering, Tongji University  
+_Advisor: Junqi Zhang, Professor at College of Electronics and Information Engineering, Tongji University_  
 
 - Collected thousands of vehicle images in real campus scenes for data construction.  
 - Improved the YOLO network architecture with detection layers and attention mechanisms, raising the model's mAP from 0.887 to 0.958.  
 
 **Semantic Segmentation in the Context of Autonomous Driving**  
-_UC Berkeley | Course Member_  
+_UC Berkeley_  
 _Sep 2022 - Oct 2022_  
-Advisor: Dr. Zheng Wu, University of California, Berkeley  
+_Advisor: Dr. Zheng Wu, University of California, Berkeley_  
 
 - Compared the performance of various neural network architectures on the Cityscape dataset, achieving accuracies of 0.947 with FCN and 0.935 with U-Net.  
 - Used the U-Net network on the KITTI dataset for semantic segmentation, reaching an accuracy of 0.908.  
@@ -78,8 +99,5 @@ _Oct 2023 - Nov 2023_
 - Ranked in the top 17% nationwide.  
 
 # Skills
-- Strong foundation in computer science concepts and algorithms  
-- Effective problem-solving and analytical skills  
-- **Programming Languages:** C/C++, Python, SQL, Verilog  
-- **Languages:** Chinese (Native), English (Proficient)  
-- **TOEFL:** Total 104 (Reading 27, Listening 28, Speaking 23, Writing 26)  
+- Programming Languages: C/C++, Python, JavaScript, SQL, Verilog
+- Frameworks & Tools: PyTorch, TensorFlow, NumPy, Pandas, Docker, Flask, Vue, MySQL
