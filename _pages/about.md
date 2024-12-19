@@ -34,10 +34,8 @@ _Sep 2021 - Present_
 
 # Research Experiences
 **Text-Image Alignment in Vision-Language Models**  
-
-_University of Maryland, College Park_
-
-_July 2024 - Present_
+_University of Maryland, College Park_  
+_July 2024 - Present_  
 
 _Advisor: Furong Huang, Associate Professor in the Department of Computer Science, University of Maryland_
 
@@ -45,12 +43,10 @@ _Advisor: Furong Huang, Associate Professor in the Department of Computer Scienc
 - Developed a feature quantization method by designing codebooks to map image vectors to clustering centers in the subspace, which successfully improved the alignment of images and texts     in discrete space
 - Addressed information loss by integrating a quantization reconstruction loss into the loss function, will publish findings as the first co-author in ICCV 
 
-**ADHD Diagnosis Based on Multi-Modal MRI Data**
+**ADHD Diagnosis Based on Multi-Modal MRI Data**  
 _Tongji University_  
-
-_Apr 2024 - Present_
-
-_Advisor: Chunyan Duan, Associate Professor in the School of Mechanical Engineering, Tongji University_
+_Apr 2024 - Present_  
+_Advisor: Chunyan Duan, Associate Professor in the School of Mechanical Engineering, Tongji University_  
 
 - Fine-tuned MedicalNet, a pre-trained medical model by Tencent, to extract image feature from MRI to ensure robustness in spite of limited patient cases
 - Addressed overfitting by calculating functional statistical indicators ALFF and ReHo from MRI and jointly training these metrics with image features, upgrading diagnostic accuracy from     77% to 80% 
