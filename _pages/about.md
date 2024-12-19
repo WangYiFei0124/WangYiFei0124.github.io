@@ -46,7 +46,7 @@ _Advisor: Furong Huang, Associate Professor in the Department of Computer Scienc
 **ADHD Diagnosis Based on Multi-Modal MRI Data**  
 _Tongji University_  
 _Apr 2024 - Present_  
-_Advisor: Chunyan Duan, Associate Professor in the School of Mechanical Engineering, Tongji University_  
+_Advisor: Chunyan Duan, Associate Professor in the School of Mechanical Engineering, Tongji University_
 
 - Fine-tuned MedicalNet, a pre-trained medical model by Tencent, to extract image feature from MRI to ensure robustness in spite of limited patient cases
 - Addressed overfitting by calculating functional statistical indicators ALFF and ReHo from MRI and jointly training these metrics with image features, upgrading diagnostic accuracy from     77% to 80% 
